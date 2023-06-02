@@ -12,6 +12,7 @@ Here are some common basic interview questions.
 - What accomplishments are you particularly proud of?
 - What are your salary expectations?
 - What motivates you?
+- Are you good in communication?
 
 
 # Situational Job Interview Questions:
