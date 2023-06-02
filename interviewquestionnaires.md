@@ -14,6 +14,7 @@ Here are some common basic interview questions.
 - What motivates you?
 - Are you good in communication?
 
+---
 
 # Situational Job Interview Questions:
 
@@ -23,10 +24,14 @@ Here are some common basic interview questions.
 - Do you have any interests outside of work?
 - How do you handle stress and pressure?
 
+---
+
 # Behavioural Questions:
 
 - Do you prefer working independently or on a team?
 - Can you provide an example of a time when you demonstrated leadership skills?
+
+---
 
 # Philosophical & Silly questions:
 
@@ -38,6 +43,53 @@ Here are some common basic interview questions.
 - How would you define the concept of justice, and how do you ensure fairness in your work?
 - How do you define happiness, and what role does it play in your professional life?
 - What is your favorite flavor of ice cream, and how does it reflect your work style?
+
+---
+
+# Internship Questionnaire:
+
+- What do you hope to gain or learn from this internship experience?
+- How do you plan to contribute to our organization during your internship?
+- How do you prioritize tasks and manage your time effectively?
+
+---
+
+# To Encourage Candidates:
+
+- ### Clear expectations:
+Tell objectives, duration, and potential projects or assignments the candidate will be involved in.
+
+- ### Growth opportunities:
+This is the chance to acquire new skills, work with experienced professionals, and gain valuable industry insights.
+
+- ### Mentorship and guidance:
+Highlight the availability of mentorship or guidance from seasoned professionals within the organization.Assure candidates that our company will have support and guidance throughout the internship to enhance your learning experience.
+
+- ### Hands-on experience:
+Explain the practical nature of the internship. It provides an opportunity for candidates to apply their knowledge and skills in real-world scenarios.
+
+- ### Networking possibilities:
+Discuss the potential for networking and building professional connections during the internship. Mention any networking events , team-building activities, or opportunities to collaborate with different departments or teams like Wednesday chill grill.
+
+- ### Feedback and evaluation:
+Assure candidates that they will receive constructive feedback and performance evaluations during the internship. Explain how this feedback can contribute to their personal and professional growth.
+
+- ### Future opportunities:
+Successful completion of the internship can lead to job opportunities within the organization or provide a strong foundation for securing higher-paying positions in the future.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
